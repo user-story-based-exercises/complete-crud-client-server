@@ -9,3 +9,4 @@
 - A search field is available in the UI.
 - The search endpoint is available and accessible from the client.
 - A song can be searched by title and artist.
+- "No songs can be found. Please adjust your search." is displayed, if no matching songs can be found.
